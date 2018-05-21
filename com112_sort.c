@@ -19,6 +19,7 @@ Desordenados *criaNumero(int n) {
     d->comp = 0;
     d->mov = 0;
     return d;
+    //Código melhorado
 }
 
 //Versão Melhorada 2 do Bubble Sort
